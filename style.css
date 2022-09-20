@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.header{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-around; 
+    word-spacing: 15px; 
+    color: white;
+    font-family: Arial;
+    border: 1px solid black;
+    position: fixed;
+}
+
+main{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+img{
+    width: 100%;
+}
+
+.iPhone{
+    background-color: white;
+}
