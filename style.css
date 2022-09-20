@@ -11,12 +11,16 @@ body{
     font-family: Arial;
     border: 1px solid black;
     position: fixed;
+    margin-left: 12.5em;
+    
 }
 
 main{
-    color: white;
+    color: black;
     text-align: center;
     font-family: Arial;
+    background-color: #ffffff;
+    font-size: 30px;
 }
 
 img{
@@ -25,4 +29,10 @@ img{
 
 .iPhone{
     background-color: white;
+}
+
+.div{
+    color: white;
+    text-align: center;
+    padding-top: 1em;
 }
